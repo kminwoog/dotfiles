@@ -1,0 +1,27 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+    "chcp 65001"
+    ],
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "default",
+    "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true,
+      "suppressUpdateNotice": true,
+      "suppressWelcomeNotice": true
+    },
+    "gitlens.keymap": "chorded",
+    "[elixir]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2
+    },
+    "editor.formatOnSave": true,
+    "editor.minimap.side": "left"
+  }
