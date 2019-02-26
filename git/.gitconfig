@@ -42,6 +42,7 @@
 [alias]
   co = checkout
   cp = cherry-pick -x
+  contains = !sh -c 'git branch --all --contains $1' -
 [pull]
   rebase = true
 [push]
